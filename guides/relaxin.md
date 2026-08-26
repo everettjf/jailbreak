@@ -11,5 +11,8 @@ nav_order: 2
 
 1. 准备工作：确认设备与系统版本
 2. 获取与安装 RELAXIN
+
+<!-- 配图：RELAXIN 安装/越狱过程截图 assets/images/relaxin-jailbreak.png -->
+
 3. 执行越狱
 4. 与 Dopamine 的差异和注意事项

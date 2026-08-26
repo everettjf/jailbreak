@@ -6,6 +6,8 @@ nav_order: 4
 
 ## Dopamine
 
+<!-- 配图：Dopamine 主界面截图 assets/images/dopamine-home.png -->
+
 官网：[ellekit.space/dopamine](https://ellekit.space/dopamine/)
 
 - 类型：无根越狱 (rootless jailbreak)，半无线 (semi-untethered)
@@ -18,6 +20,8 @@ nav_order: 4
 > Rootless 意味着不能随意写入系统分区，插件需要适配 rootless 环境才能正常工作，安装前注意确认兼容性。
 
 ## RELAXIN
+
+<!-- 配图：RELAXIN 主界面截图 assets/images/relaxin-home.png -->
 
 官网：[relaxin.owngoal.dev](https://relaxin.owngoal.dev/)
 

@@ -10,6 +10,8 @@ nav_order: 2
 
 - 什么是越狱 (Jailbreak)
 - Rootless 与 Roothide 的区别
+
+<!-- 配图：rootless 文件系统结构示意图 assets/images/rootless-structure.png -->
 - Semi-untethered（半无线）是什么意思
 - 包管理器 (Package Manager)：Sileo / Zebra
 - 插件 (Tweak) 与 Repo 源

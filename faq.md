@@ -6,6 +6,8 @@ nav_order: 6
 
 > 📝 待补充：记录越狱过程中遇到的问题与解决方法。
 
+<!-- 配图：Safe Mode 界面截图 assets/images/safe-mode.png -->
+
 ## 建议大纲
 
 - 越狱失败 / 卡在某一进度怎么办

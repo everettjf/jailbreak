@@ -6,6 +6,8 @@ nav_order: 1
 
 这里记录我在 iOS 越狱 (Jailbreak) 方面的折腾：设备、工具、插件 (Tweaks) 和教程心得。
 
+<!-- 配图：四台设备合影 assets/images/devices-group.jpg -->
+
 ## 我的设备
 
 | 设备 | 系统版本 | 可否越狱 | 越狱工具 |

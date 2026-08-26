@@ -9,6 +9,8 @@ nav_order: 2
 
 ## iPhone XR — iOS 16.1.1（Dopamine Rootless）
 
+<!-- 配图：已装插件主界面截图，如 Filza / NewTerm / Choicy 设置页 assets/images/xr-tweaks-filza.png -->
+
 | 插件名 | 功能 | 源 | 状态 | 官网 / 教程 | 使用说明 |
 |--------|------|-----|------|-------------|----------|
 | **Filza** | 文件管理器 | `https://tigisoftware.com/repo/` | ✅ 已装 | [官网](https://www.tigisoftware.com/) / [指南](https://www.tigisoftware.com/default/?p=439) | 浏览 `/var/jb` 查看越狱文件；查看 App 包内容路径为 `/var/containers/Bundle/Application/`；长按文件可分享或修改权限 |
