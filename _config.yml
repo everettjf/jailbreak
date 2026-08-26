@@ -1,7 +1,7 @@
 title: iOS 越狱手册
 description: >-
   我的 iOS 越狱 (Jailbreak) 教程与文档库：设备、越狱工具（Dopamine / RELAXIN）、插件 (Tweaks) 与玩法记录。
-remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.10.1
 lang: zh-CN
 
 plugins:
@@ -13,3 +13,4 @@ plugins:
 # just-the-docs
 search_enabled: true
 heading_anchors: true
+nav_fold: false
