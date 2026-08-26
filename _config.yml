@@ -11,6 +11,7 @@ plugins:
   - jekyll-seo-tag
 
 # just-the-docs
+color_scheme: xnu-dark
 search_enabled: true
 heading_anchors: true
 nav_fold: false

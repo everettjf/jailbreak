@@ -1,0 +1,17 @@
+// xnu.app 风格暗色配色（slate 色系 + 琥珀色点缀）
+$color-scheme: dark;
+$body-background-color: #020617;
+$sidebar-color: #020617;
+$border-color: #1e293b;
+$body-text-color: #cbd5e1;
+$body-heading-color: #f8fafc;
+$nav-child-link-color: #94a3b8;
+$link-color: #d8a657;
+$btn-primary-color: #d8a657;
+$base-button-color: #1e293b;
+$code-background-color: #0f172a;
+$search-background-color: #0f172a;
+$table-background-color: #0f172a;
+$feedback-color: #111c30;
+
+@import "./vendor/OneDarkJekyll/syntax"; // 代码高亮用 One Dark 配色
