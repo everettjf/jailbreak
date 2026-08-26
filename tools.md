@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: 越狱工具
-permalink: /tools.html
+nav_order: 4
 ---
 
 ## Dopamine

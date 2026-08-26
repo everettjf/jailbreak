@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: 插件清单
-permalink: /tweaks.html
+nav_order: 6
 ---
 
 这里列出我安装和使用的越狱插件 (Tweaks)。

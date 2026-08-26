@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll"
-gem "minima"
+gem "jekyll-remote-theme"
+gem "jekyll-include-cache"
 gem "jekyll-feed"
+gem "jekyll-seo-tag"

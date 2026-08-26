@@ -1,7 +1,7 @@
 ---
-layout: page
-title: 设备列表
-permalink: /devices.html
+layout: default
+title: 我的设备
+nav_order: 3
 ---
 
 ## iPhone XR — iOS 16.1.1

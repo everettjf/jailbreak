@@ -1,9 +1,10 @@
 ---
-layout: home
-title: 首页
+layout: default
+title: 前言
+nav_order: 1
 ---
 
-这里记录我在 iOS 越狱 (Jailbreak) 方面的折腾：设备、工具、插件 (Tweaks) 和一些玩法心得。
+这里记录我在 iOS 越狱 (Jailbreak) 方面的折腾：设备、工具、插件 (Tweaks) 和教程心得。
 
 ## 我的设备
 
@@ -14,10 +15,11 @@ title: 首页
 | iPhone 14 | iOS 17.3.1 | ✅ | Dopamine / [RELAXIN](https://relaxin.owngoal.dev/) |
 | iPhone 17 Pro | iOS 27 beta 4 | ❌ | 暂不可越狱，只能折腾 badquery 漏洞 |
 
-详细说明见 [设备列表](devices.html)。
+## 章节导航
 
-## 内容导航
-
-- [设备列表](devices.html) — 各设备的芯片、系统版本与越狱方式
-- [越狱工具](tools.html) — Dopamine 与 RELAXIN 介绍
-- [插件清单](tweaks.html) — 我安装和使用的 Tweaks
+- [越狱基础]({% link concepts.md %}) — 越狱相关概念扫盲
+- [我的设备]({% link devices.md %}) — 各设备的芯片、系统版本与越狱方式
+- [越狱工具]({% link tools.md %}) — Dopamine 与 RELAXIN 介绍
+- [越狱教程]({% link guides.md %}) — 分工具的安装与越狱步骤
+- [插件清单]({% link tweaks.md %}) — 我安装和使用的 Tweaks
+- [常见问题]({% link faq.md %}) — 踩坑记录与 FAQ
