@@ -1,0 +1,13 @@
+title: 我的 iOS 越狱笔记
+description: >-
+  记录我的 iPhone 越狱 (Jailbreak) 设备、越狱工具与插件 (Tweaks) 玩法。
+theme: minima
+lang: zh-CN
+
+header_pages:
+  - devices.md
+  - tools.md
+  - tweaks.md
+
+plugins:
+  - jekyll-feed
