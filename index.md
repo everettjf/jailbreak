@@ -18,8 +18,7 @@ nav_order: 1
 ## 章节导航
 
 - [越狱基础]({% link concepts.md %}) — 越狱相关概念扫盲
-- [我的设备]({% link devices.md %}) — 各设备的芯片、系统版本与越狱方式
+- [设备与插件]({% link inventory.md %}) — 我的设备情况与安装的 Tweaks
 - [越狱工具]({% link tools.md %}) — Dopamine 与 RELAXIN 介绍
 - [越狱教程]({% link guides.md %}) — 分工具的安装与越狱步骤
-- [插件清单]({% link tweaks.md %}) — 我安装和使用的 Tweaks
 - [常见问题]({% link faq.md %}) — 踩坑记录与 FAQ

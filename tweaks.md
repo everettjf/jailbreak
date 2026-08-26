@@ -1,7 +1,8 @@
 ---
 layout: default
 title: 插件清单
-nav_order: 6
+parent: 设备与插件
+nav_order: 2
 ---
 
 这里列出我安装和使用的越狱插件 (Tweaks)。

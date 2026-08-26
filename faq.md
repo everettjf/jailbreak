@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 常见问题
-nav_order: 7
+nav_order: 6
 ---
 
 > 📝 待补充：记录越狱过程中遇到的问题与解决方法。

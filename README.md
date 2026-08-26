@@ -6,10 +6,11 @@
 
 - `index.md` — 前言：设备总览与导读
 - `concepts.md` — 越狱基础（概念扫盲，待补充）
-- `devices.md` — 我的设备（iPhone XR / 11 / 14 / 17 Pro）
+- `inventory.md` — 设备与插件（父章节）
+  - `devices.md` — 我的设备（iPhone XR / 11 / 14 / 17 Pro）
+  - `tweaks.md` — 插件清单（占位模板，待补充实际插件）
 - `tools.md` — 越狱工具（Dopamine、RELAXIN）
 - `guides.md` + `guides/` — 越狱教程（Dopamine 篇 / RELAXIN 篇，待补充）
-- `tweaks.md` — 插件清单（占位模板，待补充实际插件）
 - `faq.md` — 常见问题（待补充）
 
 ## 部署

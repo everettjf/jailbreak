@@ -1,7 +1,8 @@
 ---
 layout: default
 title: 我的设备
-nav_order: 3
+parent: 设备与插件
+nav_order: 1
 ---
 
 ## iPhone XR — iOS 16.1.1
